@@ -10,8 +10,8 @@ To install Meme Generator on your local machine, follow these steps:
     Clone the repository from GitHub.
     Install all dependencies by running npm install.
     Start the app by running npm start.
+    
 Usage
-
 To create a meme using Meme Generator, follow these steps:
 
     1.Choose an image by pressing "get a new meme image".
@@ -24,10 +24,10 @@ Technologies Used
 
 Meme Generator was built using the following technologies:
 
-  React
-  HTML
-  CSS
-  JavaScript
+      React
+      HTML
+      CSS
+      JavaScript
   
 The app also uses an API to fetch images for creating memes.
 
