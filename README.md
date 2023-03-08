@@ -14,9 +14,9 @@ Usage
 
 To create a meme using Meme Generator, follow these steps:
 
-1.Choose an image by pressing "get a new meme image".
-2.Add your own custom text to the top and bottom of the image.
-3.Create a new meme :)
+    1.Choose an image by pressing "get a new meme image".
+    2.Add your own custom text to the top and bottom of the image.
+    3.Create a new meme :)
 
 Share your meme with your friends on social media or download it to your device.
 
